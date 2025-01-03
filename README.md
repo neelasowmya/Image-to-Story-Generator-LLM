@@ -66,10 +66,6 @@ You can listen respective audio file of this test image on respective `img-audio
 
 ## ▶️Installation
 
-Clone the repository:
-
-`git clone https://github.com/GURPREETKAURJETHRA/Image-to-Speech-GenAI-Tool-Using-LLM.git`
-
 Install the required Python packages:
 
 `pip install -r requirements.txt`
